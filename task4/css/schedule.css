@@ -1,0 +1,8 @@
+.schedules .schedules__contanier {
+    padding: 10px 5px; border-bottom: 1px solid #c2c2c2;
+    display: block; width: 100%;
+}
+
+.schedules .schedules__contanier .schedules__item .schedules__info p {
+    padding: 0px; margin: 0px;
+}

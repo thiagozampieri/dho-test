@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^todolist/?$ todolist.php [NC,L]
+RewriteRule ^todolist/([0-9]+)/?$ todolist.php?id=$1 [NC,L]
