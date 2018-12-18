@@ -19,6 +19,13 @@ Depois acessar a pasta task4/api/DB/DB.php e ajustar os dados de conexão com Ba
 Basta acessar a pasta com o servidor PHP rodando
 Depois acesse o arquivo index.html
 
+-**Funcionamento do projeto:**
+- Tela responsivo
+- Ao mover item da lista para o lado é possivel remover
+- Ao drag-drog será possivel mudar a ordem do item na lista (reindex)
+- Ao editar um item da lista é necessario clicar no botão atualizar
+- Para criar um novo item não é necessário term titulo ou descrição (pode editar posteriormente)
+
 
 `Informações adicionais:`
 * A aplicação foi feita em AngularJS
